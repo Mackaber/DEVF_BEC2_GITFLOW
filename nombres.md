@@ -3,7 +3,10 @@ Brayan
 Keith
 Itzel
 Edgar
+Elizabeth
 Mackaber 
-Miguel
+Miguelgit add nombres.md
 
+Papaleta
+Mauricio
 

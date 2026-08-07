@@ -1,7 +1,7 @@
 Mackaber
 Brayan
 Keith
-Edgar
+Edgar.
 Mackaber 
 Miguel
 Papaleta

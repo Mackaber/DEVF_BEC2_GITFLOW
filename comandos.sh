@@ -20,4 +20,4 @@ git checkout -b "Nombre de la rama" # Crea una nueva rama y se cambia a ella
 ## Comandos de mezcla de ramas
 
 git merge # Desde la rama principal, mezcla una rama diferente
-git rebase # 
+git rebase # Desde una rama espefica, mezcla la rama principal

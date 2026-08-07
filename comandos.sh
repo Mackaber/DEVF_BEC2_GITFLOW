@@ -8,3 +8,11 @@ git add # Mover los archivos al apartado de staging
 git commit -m "Mensaje del commit" # Confirma los cambios (los mueve al apartado de committed)
 git push # Manda los cambios al repositorio remoto
 git pull # Obtiene los últimos cambios del repositorio remoto
+
+# Git de forma colaborativa
+
+## Comandos de control de ramas
+
+git branch "Nombre de la rama" # Crear una nueva rama
+git checkout "Nombre de la rama" # Cambiarse a otra rama
+git checkout -b "Nombre de la rama" # Crea una nueva rama y se cambia a ella
